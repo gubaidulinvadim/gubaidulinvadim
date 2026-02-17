@@ -19,6 +19,5 @@ instabilities in double rf systems,” Physical Review Accelerators and Beams, v
 - V. Gubaidulin, V. Kornilov, O. Boine-Frankenheim, and E. Métral, “Landau damping of transverse head-tail
 instabilities with a pulsed electron lens in hadron synchrotrons,” Physical Review Accelerators and Beams,
 vol. 25, p. 084401, Aug. 2022.
-- D. Astapovych, O. Boine-Frankenheim, V. Gubaidulin, V. Kornilov, U. Niedermayer, and D. Schulte, “Sta-
-bility limits with Landau damping in the FCC-hh,” Journal of Instrumentation, vol. 16, pp. P01013–P01013,
+- D. Astapovych, O. Boine-Frankenheim, V. Gubaidulin, V. Kornilov, U. Niedermayer, and D. Schulte, “Stability limits with Landau damping in the FCC-hh,” Journal of Instrumentation, vol. 16, pp. P01013–P01013,
 Jan. 2021.
